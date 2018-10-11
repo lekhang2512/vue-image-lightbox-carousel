@@ -28,7 +28,7 @@ yarn add vue-image-lightbox-carousel
 Then import it in your project
 
 ```javascript
-import VueImageLightboxCarousel from 'vue-image-lightbox'
+import VueImageLightboxCarousel from 'vue-image-lightbox-carousel'
 
 export default {
   components: {
