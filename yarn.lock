@@ -824,6 +824,11 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
+basic@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/basic/-/basic-2.0.3.tgz#1c1654eaeaa045ea6ec0419e93035de5620d9cdd"
+  integrity sha512-buhqJxq6B9ntEOcBl20KOzibylI/xnvEWjpPGHq2Ovyn/eooKARI3kneLG5QnuOuM26gutfJ+dbWvIFgBhsVOA==
+
 batch@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/batch/-/batch-0.6.1.tgz#dc34314f4e679318093fc760272525f94bf25c16"

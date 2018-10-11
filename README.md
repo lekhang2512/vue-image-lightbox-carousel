@@ -3,8 +3,9 @@
 A simple image lightbox carousel component for Vuejs
 [NPM Package](https://www.npmjs.com/package/vue-image-lightbox-carousel)
 
+[Demo!]()
 
-[Demo!](http://pexea12.github.io/vue-image-lightbox/)
+![enter image description here](https://raw.githubusercontent.com/lekhang2512/vue-image-lightbox-carousel/master/src/assets/demo.png)
 
 ## Development (NPM / Yarn)
 ```
