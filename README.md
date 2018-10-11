@@ -80,7 +80,7 @@ How to use:
 </template>
 
 <script>
-import VueImageLightboxCarousel from './components/VueImageLightboxCarousel'
+import VueImageLightboxCarousel from 'vue-image-lightbox-carousel'
 
 export default {
   name: 'app',
