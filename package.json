@@ -1,7 +1,7 @@
 {
   "name": "vue-image-lightbox-carousel",
   "description": "A Vue.js project",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Lee Khang <lekhang2512@gmail.com>",
   "license": "MIT",
   "main": "src/main.js",
