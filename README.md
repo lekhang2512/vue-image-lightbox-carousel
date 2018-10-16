@@ -255,3 +255,6 @@ export default {
 ## Dependencies
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
 - [vue-lazyload](https://github.com/hilongjw/vue-lazyload)
+
+## References
+- [vue-image-lightbox](https://github.com/pexea12/vue-image-lightbox)
